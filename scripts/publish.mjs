@@ -59,8 +59,8 @@ copy(".next/static", ".next/static", "static assets");
 copy("public", "public", "public/ assets");
 copy("content", "content", "content/ (editable JSON)");
 
-// 4b. IIS config (iisnode) at the bundle root
-copy("deploy/web.config", "web.config", "web.config (IIS/iisnode)");
+// 4b. IIS config (HttpPlatformHandler) at the bundle root
+copy("deploy/web.config", "web.config", "web.config (IIS/HttpPlatformHandler)");
 
 // 5. Convenience start scripts on the server
 writeFileSync(
@@ -79,9 +79,10 @@ writeFileSync(
     "Run (standalone):  node server.js   (or ./start.sh  /  start.cmd)",
     "Port:  set PORT env var (default 3000), e.g.  PORT=8080 node server.js",
     "",
-    "IIS:  point the site's physical path here; web.config runs server.js via",
-    "iisnode. Requires Node 24+, the iisnode module and URL Rewrite module.",
-    "Set ADMIN_PASSWORD as a server/App-Pool environment variable.",
+    "IIS:  point the site's physical path here. web.config launches server.js",
+    "via HttpPlatformHandler (install that module first). Full guide + fixes:",
+    "see deploy/DEPLOY-IIS.md in the source repo. Edit web.config: set",
+    "processPath (node.exe) and ADMIN_PASSWORD before iisreset.",
     "",
     "The content/ folder holds the editable site data (site.json, home.json,",
     "posts.json, projects.json, about.json) and receives leads at content/leads.json.",
