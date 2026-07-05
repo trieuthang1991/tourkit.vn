@@ -29,7 +29,7 @@ export function Solutions({ data }: { data: HomeContent["solutions"] }) {
         </Reveal>
 
         <div className="tk-fullbleed mt-12">
-          <Carousel slideBasis="basis-[85%] sm:basis-1/2 lg:basis-1/3" autoplayDelay={4000} gapPx={20}>
+          <Carousel variant="marquee" speed={1} slideBasis="basis-[85%] sm:basis-1/2 lg:basis-1/3" gapPx={20}>
             {items.map((s, i) => (
               <SmartLink
                 key={`${s.title}-${i}`}
