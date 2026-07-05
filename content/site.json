@@ -1,0 +1,197 @@
+{
+  "brand": {
+    "logo": "/images/Untitled-2-01.png",
+    "logoFooter": "/images/Untitled-1-01-2.png"
+  },
+  "contact": {
+    "email": "hotro.tourkit@gmail.com",
+    "phone": "0383.202.404",
+    "address": "Tầng 4 - 242 Nguyễn Văn Lộc - Mỗ Lao - Hà Đông",
+    "footerEmail": "hotro@migroup.asia"
+  },
+  "nav": [
+    {
+      "label": "Về Tourkit",
+      "href": "/ve-migroup"
+    },
+    {
+      "label": "Hồ sơ năng lực",
+      "href": "/ho-so-nang-luc"
+    },
+    {
+      "label": "Dự án",
+      "href": "/du-an"
+    },
+    {
+      "label": "Tin tức – Sự Kiện",
+      "href": "/tin-tuc-su-kien"
+    }
+  ],
+  "ctaButton": {
+    "label": "Đăng Ký Dùng Thử",
+    "href": "/lien-he"
+  },
+  "serviceMenu": [
+    {
+      "heading": "VẬN HÀNH DOANH NGHIỆP",
+      "items": [
+        {
+          "icon": "/images/Untitled-2-02-rcunkjf5h8qaten2e3dxw5xmfjbsm81tr83kzy4ewk.png",
+          "title": "Tourkit CRM",
+          "desc": "Hệ thống quản lý / CSKH",
+          "href": "/dich-vu"
+        },
+        {
+          "icon": "/images/Untitled-2-03-rcunkm8o1qu5s8iyxmltln807oxw9bd0rm21fs08dw.png",
+          "title": "Tourkit HRMO",
+          "desc": "Chấm công / Tính lương",
+          "href": "/dich-vu"
+        },
+        {
+          "icon": "/images/Untitled-2-04-rcunkq00t2zb2odibo8bvm9ul8fd43ry44nzcvunp0.png",
+          "title": "Tourkit Go",
+          "desc": "Giải pháp Affiliate / CTV / Đại lý cho ngành du lịch",
+          "href": "/dich-vu"
+        }
+      ]
+    },
+    {
+      "heading": "MARKETING, TIẾP THỊ BÁN HÀNG",
+      "items": [
+        {
+          "icon": "/images/Untitled-2-01-rcunkfnspwl5iysj01rfm6vs1zubrfmwephn2u9zlg.png",
+          "title": "Tourkit Website",
+          "desc": "Giải pháp website Booking chuyên biệt ngành du lịch",
+          "href": "https://mistudio.asia/"
+        },
+        {
+          "icon": "/images/zalo-01-rcuphv0nidml23y2lk4fa66fljnbam96ac5q5lc60k.png",
+          "title": "ZaloOA / ZNS / UID",
+          "desc": "Chiến dịch quảng cáo / CSKH qua Zalo",
+          "href": "/dich-vu"
+        },
+        {
+          "icon": "/images/TM-01-rcuq6tmczzspdbosucjrhvf3hwm7p9ckdvtwy4bss4.png",
+          "title": "Tourkit Mail",
+          "desc": "Giải pháp Email Marketing Doanh nghiệp du lịch",
+          "href": "/dich-vu"
+        }
+      ]
+    },
+    {
+      "heading": "KẾT NỐI / VẬN HÀNH",
+      "items": [
+        {
+          "icon": "/images/BH-01-rcuphnhxzpcah88ztgveq82qugodl1fblaxubdnbec.png",
+          "title": "BankHub",
+          "desc": "Thanh toán tự động ngân hàng",
+          "href": "/dich-vu"
+        },
+        {
+          "icon": "/images/TI-01-rcuphr9ar1hfro3j7ihx074l805uftu8xtjs8hhqpg.png",
+          "title": "Tourkit Invoice",
+          "desc": "Kết nối hoá đơn điện tử",
+          "href": "/dich-vu"
+        }
+      ]
+    }
+  ],
+  "ctaBand": {
+    "text": "Hãy gửi cho chúng tôi những thắc mắc, góp ý hoặc đề nghị hợp tác của bạn. Chúng tôi sẽ phản hồi trong thời gian sớm nhất!",
+    "title": "LIÊN HỆ NGAY",
+    "buttonText": "Liên Hệ Với Chúng Tôi",
+    "buttonHref": "/lien-he",
+    "image": "/images/man_3d-Converted.png"
+  },
+  "floating": {
+    "enabled": true,
+    "buttons": [
+      { "type": "phone", "label": "Gọi ngay", "href": "tel:0383202404" },
+      { "type": "zalo", "label": "Zalo", "href": "https://zalo.me/0383202404" },
+      { "type": "facebook", "label": "Facebook", "href": "https://www.facebook.com/ThemesCamp-107594098187709" },
+      { "type": "tiktok", "label": "Tiktok", "href": "https://www.tiktok.com/@tourkit" }
+    ]
+  },
+  "chat": {
+    "enabled": true,
+    "src": "https://chat-plugin.pancake.vn/main/auto?page_id=web_tourkitvietnam"
+  },
+  "consult": {
+    "title": "Đăng ký ngay",
+    "subtitle": "Trải nghiệm để khám phá những tính năng tuyệt vời TourKit mang lại",
+    "submitText": "ĐĂNG KÝ",
+    "successText": "Cảm ơn bạn đã đăng ký. Đội ngũ Tourkit sẽ liên hệ trong thời gian sớm nhất!",
+    "fields": [
+      { "name": "company-name", "placeholder": "Tên công ty", "type": "text", "required": true, "width": "full" },
+      { "name": "your-name", "placeholder": "Họ & Tên", "type": "text", "required": true, "width": "half" },
+      { "name": "role", "placeholder": "Chức vụ", "type": "select", "width": "half", "options": ["Lãnh đạo (Chủ tịch, CEO, Clevel ...)", "Quản lý nhân sự", "Quản lý CNTT", "Quản lý cấp trung", "Nhân viên"] },
+      { "name": "your-email", "placeholder": "Email", "type": "email", "required": true, "width": "half" },
+      { "name": "your-phone", "placeholder": "Số Điện Thoại", "type": "tel", "required": true, "width": "half" },
+      { "name": "company-size", "placeholder": "Quy mô nhân sự", "type": "select", "width": "half", "options": ["Dưới 10 nhân viên", "10-30 nhân viên", "30-100 nhân viên", "100-300 nhân viên", "Trên 300 nhân viên"] },
+      { "name": "region", "placeholder": "Khu vực", "type": "select", "width": "half", "options": ["Hà Nội", "Hồ Chí Minh", "Khu vực phía Bắc (tính tới Huế)", "Khu vực phía Nam (tính từ Đà Nẵng)"] },
+      { "name": "need", "placeholder": "Nhu cầu quản lý", "type": "select", "width": "full", "options": ["Quản lý Công việc", "Quản lý Nhân sự", "Quản lý CRM", "Quản lý Tổng thể"] }
+    ]
+  },
+  "footer": {
+    "companyName": "CÔNG TY CỔ PHẦN TOURKIT VIỆT NAM",
+    "offices": [
+      {
+        "city": "Văn phòng Hà Nội",
+        "addr": "Tầng 4, Tòa nhà 242 Nguyễn Văn Lộc, Hà Đông, Hà Nội"
+      },
+      {
+        "city": "Văn phòng Hồ Chí Minh",
+        "addr": "Số 1, Đặng Văn Sâm, Phường 9, Q.Phú Nhuận"
+      }
+    ],
+    "hotline": "0383.202.404",
+    "email": "hotro@migroup.asia",
+    "facebook": "https://www.facebook.com/ThemesCamp-107594098187709",
+    "youtube": "https://www.youtube.com/channel/UCcqdCHUg0INMZCj0K457HPg",
+    "serviceLinks": [
+      {
+        "label": "TourkitERP",
+        "href": "/dich-vu"
+      },
+      {
+        "label": "TourkitHRM",
+        "href": "/dich-vu"
+      },
+      {
+        "label": "TourkitWebsite",
+        "href": "https://mistudio.asia/"
+      },
+      {
+        "label": "TourkitGo",
+        "href": "/dich-vu"
+      }
+    ],
+    "infoLinks": [
+      {
+        "label": "Về chúng tôi",
+        "href": "/ve-migroup"
+      },
+      {
+        "label": "Tin tức",
+        "href": "/tin-tuc-su-kien"
+      },
+      {
+        "label": "Dịch vụ",
+        "href": "/dich-vu"
+      },
+      {
+        "label": "Dự án",
+        "href": "/du-an"
+      },
+      {
+        "label": "Liên hệ",
+        "href": "/lien-he"
+      },
+      {
+        "label": "Chính sách bán hàng",
+        "href": "/tin-tuc-su-kien"
+      }
+    ],
+    "copyright": "Full Copyright & Design By @TOURKIT - 2025"
+  }
+}

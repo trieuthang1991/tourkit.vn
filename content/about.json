@@ -1,0 +1,71 @@
+{
+  "intro": {
+    "eyebrow": "GIỚI THIỆU CÔNG TY",
+    "paragraph": "Công ty Cổ phần Tourkit Việt Nam là công ty công nghệ SaaS tiên phong tại Việt Nam, cung cấp giải pháp toàn diện cho ngành du lịch, giúp các doanh nghiệp tổ chức tour, lữ hành, và dịch vụ liên quan tối ưu hóa hoạt động, nâng cao trải nghiệm khách hàng, và thúc đẩy tăng trưởng bền vững ngành du lịch. Thành lập vào năm 2020, Tourkit cam kết mang đến những giải pháp sáng tạo, dễ sử dụng, và phù hợp với xu hướng chuyển đổi số trong ngành du lịch.",
+    "products": [
+      {
+        "name": "TourkitERP",
+        "desc": "Giải pháp quản trị doanh nghiệp du lịch toàn diện"
+      },
+      {
+        "name": "TourkitHRM",
+        "desc": "Giải pháp chấm công - tính lương doanh nghiệp du lịch"
+      },
+      {
+        "name": "TourkitWeb",
+        "desc": "Giải pháp Webbooking cho ngành du lịch"
+      },
+      {
+        "name": "TourkitGo",
+        "desc": "Giải pháp bán hàng Affiliate cho ngành du lịch"
+      }
+    ],
+    "buttonText": "Tải Về Hồ Sơ Công Ty",
+    "buttonHref": "/docs/profile-migroup.pdf",
+    "image": "/images/about-mission.jpg"
+  },
+  "productsSection": {
+    "eyebrow": "Về sản phẩm",
+    "titlePre": "Các sản phẩm, giải pháp",
+    "titleHighlight": "Chúng tôi đang phục vụ khách hàng",
+    "logos": [
+      "/images/09_Untitled-2-01.png",
+      "/images/Untitled-2-03.png",
+      "/images/Untitled-2-02.png",
+      "/images/Untitled-2-04.png"
+    ]
+  },
+  "mission": {
+    "eyebrow": "Về Tourkit",
+    "titlePre": "Triết lý làm việc",
+    "titleHighlight": "của chúng tôi",
+    "text": "Sứ mệnh của Tourkit là phát triển các nền tảng, phần mềm và dịch vụ công nghệ thông tin giúp khách hàng thực hiện công việc theo phương thức mới, năng suất và hiệu quả hơn nhằm thúc đẩy sự phát triển của doanh nghiệp.",
+    "bullets": [
+      "Lợi ích khách hàng được đặt lên trên hết",
+      "Không ngừng sáng tạo cho mỗi sản phẩm mình tạo ra.",
+      "Làm bằng TÂM - Tận tâm, tận lực vì lợi ích khách hàng"
+    ],
+    "buttonText": "Liên hệ chúng tôi",
+    "buttonHref": "/lien-he",
+    "image": "/images/doi-so-1-1.jpg"
+  },
+  "press": {
+    "eyebrow": "Feedbacks",
+    "titlePre": "Báo chí nói về sản phẩm của",
+    "titleHighlight": "chúng tôi",
+    "items": [
+      {
+        "quote": "Nhắc đến công cụ số hóa trong ngành lữ hành, Tourkit không phải là đơn vị triển khai duy nhất. Tuy nhiên, đối với các doanh nghiệp thông thường sẽ đầu tư vào CRM bán hàng. Đây là công cụ hữu ích tuy nhiên lại thiếu sự tương quan với lĩnh vực Du lịch - Lữ hành. Tourkit đảm bảo bù đắp được yếu tố này.",
+        "logo": "/images/Bao-2.png",
+        "source": "Thương hiệu và Tiêu dùng",
+        "desc": "Số hóa quy trình trong doanh nghiệp du lịch - Chìa khóa vàng để bứt phá"
+      },
+      {
+        "quote": "Trong bối cảnh toàn bộ xã hội hướng đến chuyển đổi số, các doanh nghiệp lữ hành du lịch cũng không nằm ngoài cuộc chơi. Đặc biệt, trong 2 năm đại dịch Covid, chuyển đổi số lại càng cho thấy vai trò quan trọng. Chúng được ví như “chiếc phao cứu sinh” để giúp doanh nghiệp thích ứng với thời cuộc. Nắm bắt xu hướng này, Tourkit - Giải pháp ứng dụng chuyển đổi số cho quy trình làm việc của doanh nghiệp du lịch - lữ hành đã được nghiên cứu và cho ra đời.",
+        "logo": "/images/Bao-1.png",
+        "source": "Du lịch và Đời sống",
+        "desc": "Giải pháp chuyển đổi số quy trình làm việc cho doanh nghiệp du lịch tại Việt Nam"
+      }
+    ]
+  }
+}

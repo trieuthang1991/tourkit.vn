@@ -1,0 +1,281 @@
+{
+  "hero": {
+    "titleLine1": "TOURKIT",
+    "titleHighlight": "\"TRÁI TIM SỐ\"",
+    "subtitle": "của doanh nghiệp du lịch Việt Nam",
+    "ctaText": "Đăng Ký Dùng Thử",
+    "ctaHref": "/lien-he",
+    "supportLabel": "Support Email",
+    "supportEmail": "hotro.tourkit@gmail.com",
+    "image": "/images/Backdrop_211-01-1.png"
+  },
+  "erp": {
+    "eyebrow": "Video Giới Thiệu",
+    "title": "TOURKIT ERP",
+    "subtitle": "\"Trái tim số\" của doanh nghiệp du lịch lữ hành Việt Nam",
+    "body": "Sau nhiều năm nghiên cứu và phát triển sản phẩm, với khát khao xây dựng được một giải pháp trọn gói, đồng bộ các khâu nghiệp vụ, vận hành xuyên suốt từ lúc đầu vào Data dữ liệu đến lúc Quyết toán ra thành Lợi nhuận cuối cùng giúp cho việc vận hành 1 doanh nghiệp du lịch dễ dàng hơn và tập trung hơn, Tourkit đã xây dựng và tích hợp nhiều giải pháp công nghệ số nhằm nâng cao khả năng quản lý, hoạt động tối ưu cho nhân viên trong doanh nghiệp du lịch lữ hành Việt Nam.",
+    "image": "/images/Thiet-ke-chua-co-ten.jpg",
+    "videoId": "-Zl9R9w6MU0"
+  },
+  "solutions": {
+    "eyebrow": "Dịch Vụ",
+    "titlePre": "TOURKIT cung cấp các",
+    "titleHighlight": "Giải Pháp toàn diện",
+    "titlePost": "cho Doanh nghiệp du lịch tại Việt Nam",
+    "items": [
+      {
+        "logo": "/images/09_Untitled-2-01.png",
+        "title": "TourKit - Chuyển đổi số Doanh nghiệp du lịch",
+        "desc": "Giải pháp số 1 Việt Nam quản trị doanh nghiệp du lịch toàn diện",
+        "href": "/dich-vu"
+      },
+      {
+        "logo": "/images/Untitled-2-04.png",
+        "title": "TourKit Go - Affiliate cho doanh nghiệp du lịch",
+        "desc": "Giải pháp giúp doanh nghiệp du lịch bán hàng qua Affiliate/CTV",
+        "href": "/dich-vu"
+      },
+      {
+        "logo": "/images/Untitled-2-02.png",
+        "title": "Tourkit Web - Đồng hành cùng thương hiệu Việt",
+        "desc": "Thiết kế Website/ Bộ nhận diện thương hiệu/logo",
+        "href": "https://mistudio.asia/"
+      },
+      {
+        "logo": "/images/Untitled-2-03.png",
+        "title": "Tourkit Hrmo - Phần mềm quản lí nhân sự",
+        "desc": "Chấm công - Tính lương - Lưu trữ số",
+        "href": "/dich-vu"
+      }
+    ],
+    "buttons": [
+      {
+        "label": "Profile Công Ty",
+        "href": "/docs/profile-migroup.pdf",
+        "variant": "purple"
+      },
+      {
+        "label": "Portfolio Mistudio",
+        "href": "/docs/portfolio-mistudio.pdf",
+        "variant": "outline"
+      },
+      {
+        "label": "Giới Thiệu Tourkit",
+        "href": "/ve-migroup",
+        "variant": "orange"
+      }
+    ]
+  },
+  "featureIntroImage": "/images/Group-48-Test.png",
+  "features": [
+    {
+      "pre": "Phần mềm quản lý doanh nghiệp du lịch số",
+      "highlight": "Tối ưu nhất",
+      "desc": "",
+      "img": "/images/banner-2.png"
+    },
+    {
+      "pre": "Quản lý, chăm sóc khách hàng 360",
+      "highlight": "",
+      "desc": "Quản lí dữ liệu, thông tin khách hàng – Xây dựng lead tiềm năng với quy trình các bước rõ ràng – Chăm sóc khách hàng xuyên suốt thời gian sử dụng để tối ưu trải nghiệm tốt nhất cho khách hàng",
+      "img": "/images/Untitled-1-01-3.png"
+    },
+    {
+      "pre": "Đơn giản hóa quy trình",
+      "highlight": "QUẢN LÝ DOANH NGHIỆP DU LỊCH",
+      "desc": "",
+      "img": "/images/Untitled-2-01-1.png"
+    },
+    {
+      "pre": "Đưa ra những quyết định quan trọng",
+      "highlight": "DỰA VÀO NHỮNG DỮ LIỆU",
+      "desc": "Dữ liệu được cập nhật liên tục và tự động, tạo ra báo cáo đa chiều, cung cấp thông tin đầy đủ. Từ đó, giúp nhà quản lý ra những quyết định chính xác và kịp thời trong mọi tình huống",
+      "img": "/images/block-3-01-01.png"
+    }
+  ],
+  "caseStudies": {
+    "title": "Câu chuyện chuyển đổi số ngành du lịch",
+    "subtitle": "Những doanh nghiệp du lịch lữ hành đã số hóa toàn diện và tăng trưởng bứt phá cùng Tourkit.",
+    "tag": "Giải pháp chuyển đổi số"
+  },
+  "websites": {
+    "title": "Các dự án Website",
+    "subtitle": "Website booking và bộ nhận diện thương hiệu du lịch do Tourkit / Mistudio thiết kế, phát triển.",
+    "tag": "Website Du Lịch"
+  },
+  "partners": {
+    "pressTitle": "Báo chí, Truyền hình & Khách hàng nói về Tourkit",
+    "featuredEyebrow": "Partner",
+    "featuredTitle": "Đối tác tiêu biểu",
+    "featured": [
+      {
+        "name": "CCall",
+        "img": "/images/ccall-2.avif"
+      },
+      {
+        "name": "MatbaoInvoice",
+        "img": "/images/logo-matbao-invoice-3.png"
+      },
+      {
+        "name": "CVS",
+        "img": "/images/logo-01-1.png"
+      },
+      {
+        "name": "Bankhub",
+        "img": "/images/Bankhub-01.png"
+      },
+      {
+        "name": "Suncloud",
+        "img": "/images/BAnqE_Logo_Suncloud_anh1-1.png"
+      },
+      {
+        "name": "eTelecom",
+        "img": "/images/logo_eTelecom_full.png"
+      },
+      {
+        "name": "Omicall",
+        "img": "/images/logo-OMI-NEW.png"
+      }
+    ],
+    "clientsEyebrow": "Partner",
+    "clientsTitle": "Đối tác & Khách hàng",
+    "clientsImage": "/images/Group-48-1024x843.png",
+    "clients": [
+      "/images/logo-01.png",
+      "/images/logocattour1-150x150.png",
+      "/images/Vintraveljsc-150x150.png",
+      "/images/logo-15.png",
+      "/images/logo-14.png",
+      "/images/logo-16.png",
+      "/images/logo-13.png",
+      "/images/logo-12.png",
+      "/images/logo-11.png",
+      "/images/logo-10.png",
+      "/images/logo-02.png",
+      "/images/logo-03.png",
+      "/images/logo-04.png",
+      "/images/logo-05.png",
+      "/images/logo-06.png",
+      "/images/logo-07.png",
+      "/images/logo-08.png",
+      "/images/logo-09.png"
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Feedback khách hàng",
+    "title": "Khách hàng nói về Tourkit",
+    "stats": [
+      {
+        "num": "20K",
+        "label": "Người dùng hệ thống"
+      },
+      {
+        "num": "4.8/5",
+        "label": "Đánh giá Chất lượng phục vụ"
+      }
+    ],
+    "links": [
+      {
+        "label": "Tìm hiểu thêm",
+        "href": "/lien-he",
+        "variant": "purple"
+      },
+      {
+        "label": "Theo dõi Youtube",
+        "href": "https://www.youtube.com/watch?v=-Zl9R9w6MU0",
+        "variant": "outline"
+      }
+    ],
+    "items": [
+      {
+        "avatar": "/images/412548980_7822125134471460_5770019805630433419_n.jpg",
+        "name": "NGUYỄN MINH HẰNG",
+        "role": "CEO VIETBLUETOUR / Chuyển Đổi Số Doanh Nghiệp Du Lịch",
+        "quote": "Với Cương Vị CEO của Vietbluetour và đã sử dụng dịch vụ rất nhiều đơn vị để chuyển đổi số nhưng Tôi đã thực sự bị thuyết phục bởi hệ thống ngày càng tối ưu và linh hoạt song song với đội ngũ trẻ năng động support bất cứ lúc nào nhân sự cần vì vậy không có bất cứ lý do gì để Vietbluetour không tiếp tục đồng hành sử dụng Tourkit trong những năm sắp tới!"
+      },
+      {
+        "avatar": "/images/348837775_1006283790737007_6691397982631616011_n.jpg",
+        "name": "NGUYỄN TIẾN ĐỨC",
+        "role": "Giám Đốc Của HanVina Travel",
+        "quote": "Cảm ơn admin với bài đăng này. Mình là Nguyễn Tiến Đức - Giám đốc của HanVina Travel. Ngày 25/01/2024 là ngày hai bên đặt bút ký hợp đồng, chuyển khoản thanh toán và bắt đầu triển khai đưa vào ứng dụng trong doanh nghiệp của mình. Đến thời điểm này, mọi thứ đang rất ổn định và trơn tru."
+      },
+      {
+        "avatar": "/images/333141560_746489096846873_6085406668069143648_n.jpg",
+        "name": "PHẠM ANH NGUYỆT",
+        "role": "CEO SeA Travel",
+        "quote": "Bên mình mới sử dụng, còn gặp vướng mắc rất nhiều. Về chất lượng của phần mềm thì xin phép vào đánh giá lại sau 6 tháng - 1 năm sử dụng. Tuy nhiên về support thì 100đ không có nhưng. Bạn Trà My hỗ trợ rất tốt ngay cả những ngày lễ & sáng sớm như hôm nay. Cảm ơn My & Team nhiều!"
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Hoạt động của chúng tôi",
+    "title": "Chúng tôi có một tập thể gắn kết",
+    "images": [
+      "/images/LNG03797-scaled.jpg",
+      "/images/LNG04099-scaled.jpg",
+      "/images/LNG04104-scaled.jpg",
+      "/images/LNG04109-scaled.jpg",
+      "/images/LNG04152-scaled.jpg",
+      "/images/LNG04156-scaled.jpg",
+      "/images/474777993_122157474452362839_2106088388814966088_n.jpg",
+      "/images/487503408_1096219065855736_4502555048391072127_n-1.jpg",
+      "/images/490749655_1107548214722821_5674976476953679556_n-1.jpg",
+      "/images/491211133_1107548134722829_7195783910457623716_n-1.jpg",
+      "/images/DSC07494-scaled.jpg",
+      "/images/doi-so-1-1.jpg"
+    ]
+  },
+  "social": {
+    "eyebrow": "Mạng xã hội",
+    "title": "Theo dõi Chúng tôi trên mạng xã hội",
+    "items": [
+      {
+        "img": "/images/Artboard-4_3x.png",
+        "name": "Facebook",
+        "desc": "Fanpage chính thức",
+        "href": "https://www.facebook.com/ThemesCamp-107594098187709"
+      },
+      {
+        "img": "/images/Artboard-2_3x.png",
+        "name": "Youtube",
+        "desc": "Kênh Video chính thức",
+        "href": "https://www.youtube.com/channel/UCcqdCHUg0INMZCj0K457HPg"
+      },
+      {
+        "img": "/images/Artboard-3_3x.png",
+        "name": "Tiktok",
+        "desc": "Kênh Tiktok chính thức",
+        "href": "#"
+      }
+    ],
+    "videoId": "-Zl9R9w6MU0",
+    "videoThumb": "/images/Thiet-ke-chua-co-ten.jpg"
+  },
+  "news": {
+    "eyebrow": "Blog",
+    "title": "Điểm tin Doanh nghiệp & Thông tin sản phẩm",
+    "items": [
+      {
+        "img": "/images/photo_6091430641813009733_y.jpg",
+        "cat": "Update sản phẩm",
+        "date": "Th6 20, 2023",
+        "title": "[Docs] Toàn tập Hướng dẫn sử dụng phần mềm Tourkit",
+        "href": "/tin-tuc-su-kien/docs-toan-tap-huong-dan-su-dung-phan-mem-tourkit"
+      },
+      {
+        "img": "/images/ra-mat-1.png",
+        "cat": "Update sản phẩm - Tin Update",
+        "date": "Th5 15, 2026",
+        "title": "TOURKIT APP MOBILE CHÍNH THỨC RA MẮT",
+        "href": "/tin-tuc-su-kien/tourkit-app-mobile-chinh-thuc-ra-mat"
+      },
+      {
+        "img": "/images/Banner_1-1.png",
+        "cat": "Sự kiện Migroup",
+        "date": "Th12 23, 2024",
+        "title": "Xu hướng Du lịch 2025 & Ứng dụng AI trong Du lịch",
+        "href": "/tin-tuc-su-kien/xu-huong-du-lich-2025-ung-dung-ai-trong-du-lich"
+      }
+    ]
+  }
+}
