@@ -1,0 +1,27 @@
+# systemd service cho Tourkit (Next.js standalone)
+# Copy vao /etc/systemd/system/tourkit.service roi:
+#   sudo systemctl daemon-reload
+#   sudo systemctl enable --now tourkit
+#   sudo systemctl status tourkit
+#
+# Sua: WorkingDirectory, ExecStart (duong dan node), ADMIN_PASSWORD.
+
+[Unit]
+Description=Tourkit Next.js site
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/var/www/tourkit/dist
+ExecStart=/usr/bin/node server.js
+Restart=always
+RestartSec=5
+Environment=NODE_ENV=production
+Environment=PORT=3000
+Environment=HOSTNAME=127.0.0.1
+Environment=ADMIN_PASSWORD=DOI_MAT_KHAU_NAY
+User=www-data
+Group=www-data
+
+[Install]
+WantedBy=multi-user.target
